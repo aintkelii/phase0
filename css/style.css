@@ -1,0 +1,22 @@
+.nav-items {
+  color: brown;
+  gap: 40px;
+  display: flex;
+  flex-direction: row;
+  background-color: orange;
+  height: 50px;
+}
+h1 {
+  background-color: orange;
+  height: 50px;
+}
+img {
+  height: 300px;
+}
+input {
+  flex-direction: row;
+  flex: 40px;
+}
+body {
+  background: ;
+}
