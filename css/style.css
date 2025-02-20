@@ -17,6 +17,6 @@ input {
   flex-direction: row;
   flex: 40px;
 }
-body {
-  background: ;
+.nav-kio {
+  color: orange;
 }
