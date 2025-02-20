@@ -8,3 +8,6 @@ This is an early stage website used for learnig purpose and biulding on the expe
 
 NAVIGATION
 First find yor way to VS CODE and openit
+
+ABOUT
+You just have to do your best in everything
